@@ -1,4 +1,7 @@
-## Hi there 👋
+## 이제는 사용하지 않는 github 계정입니다!
+<a href="https://github.com/goochul-im">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a> <- 여기로 오세용
 
 <!--
 **gooch123/gooch123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
